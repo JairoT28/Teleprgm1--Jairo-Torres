@@ -11,4 +11,4 @@ vEdades.pop(43)
 
 for vIndice in vEdades:
     
-    print("Las personas vacunas son:", vIndice)
+    print("Las edades de las personas vacunas son:", vIndice)
